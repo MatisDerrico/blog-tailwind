@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "prenom": "Matis",
+        "nom": "D'Errico",
+        "Date_de_naissance": "1998-04-05",
+        "title": "The Evolution of AI in Healthcare: Revolutionizing Patient Care",
+        "author": "Dr. Emily Johnson",
+        "content": "The realm of healthcare has witnessed a remarkable transformation owing to the integration of Artificial Intelligence (AI) technologies. With advancements in machine learning algorithms and data analytics, AI has emerged as a catalyst in revolutionizing patient care. From streamlining administrative tasks to aiding in diagnostics and treatment, its impact is profound..."
+    },
+    {
+        "id": 2,
+        "prenom": "Michel",
+        "nom": "D'Errico",
+        "Date_de_naissance": "1993-06-21",
+        "title": "Exploring Sustainable Solutions: AI's Role in Environmental Conservation",
+        "author": "Dr. Alex Rodriguez",
+        "content": "In the face of global environmental challenges, Artificial Intelligence (AI) is increasingly being harnessed as a powerful tool to foster sustainability and conservation efforts. The fusion of AI technologies with environmental science has opened avenues to address pressing issues such as climate change, wildlife preservation, and resource management..."
+    },
+    {
+        "id": 3,
+        "prenom": "Thibault",
+        "nom": "D'Errico",
+        "Date_de_naissance": "1991-09-14",
+        "title": "Title of the Third Article",
+        "author": "Author's Name",
+        "content": "Content of the third article goes here..."
+    }
+]
